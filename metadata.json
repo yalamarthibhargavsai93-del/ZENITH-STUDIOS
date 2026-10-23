@@ -1,0 +1,6 @@
+{
+  "name": "Kaizen",
+  "description": "Original self-improvement progression app featuring Momentum XP, Sparks, astral field journal aesthetics, quests, challenges, and focus sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
